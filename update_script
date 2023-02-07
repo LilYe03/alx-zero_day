@@ -1,0 +1,5 @@
+Removing 0x03-git/js/main.js
+Removing 0x03-git/js/index.js
+Auto-merging 0x03-git/bash/alx
+CONFLICT (content): Merge conflict in 0x03-git/bash/alx
+Automatic merge failed; fix conflicts and then commit the result.
